@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "beautifulsoup4>=4.14.3",
     "chromadb>=1.5.3",
+    "ddgs>=9.11.2",
     "duckduckgo-search>=8.1.1",
     "flashrank>=0.2.10",
     "html2text>=2025.4.15",
